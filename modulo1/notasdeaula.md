@@ -1,7 +1,7 @@
-## Notas de aula referentes ao módulo 1##
+## Notas de aula referentes ao módulo 1 ##
 
-###Instalação do Git
+### Instalação do Git
 
-###Configração fo Git
+### Configração fo Git
 
 
